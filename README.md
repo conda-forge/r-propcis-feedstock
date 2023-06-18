@@ -1,11 +1,11 @@
-About r-propcis
-===============
+About r-propcis-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-propcis-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/shearer/PropCIs
 
 Package license: GPL-2 and GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-propcis-feedstock/blob/main/LICENSE.txt)
 
 Summary: Computes two-sample confidence intervals for single, paired and independent proportions.
 
